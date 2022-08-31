@@ -4,6 +4,6 @@
 "license":"MIT",
 "version": "0.0.0",
 "dependencies":{
-    "@freecodecamp/example":"~1.2.5",
+    "@freecodecamp/example":"^1.2.5",
 
 }
