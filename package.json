@@ -3,3 +3,7 @@
 "keywords":["learn", "learn-npm"],
 "license":"MIT",
 "version": "0.0.0",
+"dependencies":{
+    "@freecodecamp/example":"1.1.0",
+
+}
