@@ -2,3 +2,4 @@
 "description": "A project to learn about npm",
 "keywords":["learn", "learn-npm"],
 "license":"MIT",
+"version": "0.0.0",
